@@ -1,4 +1,4 @@
-#!/home/chris/Desktop/bitsafe/virtualenv/bin/python
+#!/media/justin/909CA3259CA304B6/workspace/practice/bitsafe/virtualenv/bin/python
 
 import sys
 import getopt

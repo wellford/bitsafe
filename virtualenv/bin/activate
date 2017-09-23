@@ -40,7 +40,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/chris/Desktop/bitsafe/virtualenv"
+VIRTUAL_ENV="/media/justin/909CA3259CA304B6/workspace/practice/bitsafe/virtualenv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
